@@ -5,3 +5,4 @@ limonata tarifi
 4.esmer seker ekle
 5.limon tuzu ekle
 6.Buz ekle 
+7.nane ekle 
